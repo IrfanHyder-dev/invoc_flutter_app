@@ -1,0 +1,42 @@
+buildscript {
+    ext.kotlin_version = '1.9.20'
+    repositories {
+        google()
+        jcenter()
+        /*maven {
+            url 'https://maven.fabric.io/public'
+        }*/
+    }
+
+    dependencies {
+        classpath "com.android.tools.build:gradle:7.1.2"
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        // Add the google services classpath
+        classpath 'com.google.gms:google-services:4.3.13'
+        // Add fabric classpath
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.5.1'
+    }
+}
+
+allprojects {
+    repositories {
+        maven {
+            url("$rootDir/..")
+        }
+        google()
+        jcenter()
+
+    }
+}
+
+rootProject.buildDir = '../build'
+subprojects {
+    project.buildDir = "${rootProject.buildDir}/${project.name}"
+}
+subprojects {
+    project.evaluationDependsOn(':app')
+}
+
+tasks.register("clean", Delete) {
+    delete rootProject.buildDir
+}

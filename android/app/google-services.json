@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "348827958981",
+    "firebase_url": "https://invoc-2ab70.firebaseio.com",
+    "project_id": "invoc-2ab70",
+    "storage_bucket": "invoc-2ab70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348827958981:android:ccec5f3036594a19947aac",
+        "android_client_info": {
+          "package_name": "com.invoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348827958981-3h67rlg1a87gj3p72o46mt4peck90mha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invoc",
+            "certificate_hash": "6777b51b986333d0e591cf87614719e63e44fc08"
+          }
+        },
+        {
+          "client_id": "348827958981-7vvhqc5gnr09843uct00j45uq3grqfij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invoc",
+            "certificate_hash": "56b58b7034d5e1cbf77860d04c60e51ea672ff68"
+          }
+        },
+        {
+          "client_id": "348827958981-lhe8ud6ollnirfg3ldiqd45jibin2jie.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invoc",
+            "certificate_hash": "0f71e227444388adfc9bc408b05a391575cb4a8f"
+          }
+        },
+        {
+          "client_id": "348827958981-qt2p8njhka732ql0osr7bb2cjq963ifj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invoc",
+            "certificate_hash": "576b740a450433616060a127a218e2cdcd393f35"
+          }
+        },
+        {
+          "client_id": "348827958981-vbtnpbs9gbqqet2ar0coskonbb9bpfvk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.invoc",
+            "certificate_hash": "c621f8929e4c1948265e1e7307f724bff2193b0a"
+          }
+        },
+        {
+          "client_id": "348827958981-1v1l51b9i5upc30uddaemqv8d5hdp8sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQq8M3_hSJoo5NZn2lqXd-qMsUr22m-Y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348827958981-1v1l51b9i5upc30uddaemqv8d5hdp8sa.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "348827958981-2gr7hamsi713j0tvftv8jbro35ej4oao.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.invoc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/white" />
+
+<!--    &lt;!&ndash; You can insert your own image assets here &ndash;&gt;-->
+<!--    <item-->
+<!--        android:height="100dp"-->
+<!--        android:width="100dp"-->
+<!--        android:gravity="center"-->
+<!--        android:drawable="@drawable/bunny_v3"/>-->
+<!--&lt;!&ndash;        <bitmap&ndash;&gt;-->
+<!--&lt;!&ndash;            android:gravity="center"&ndash;&gt;-->
+<!--&lt;!&ndash;            android:src="@drawable/bunny_v3" />&ndash;&gt;-->
+<!--&lt;!&ndash;    </item>&ndash;&gt;-->
+</layer-list>

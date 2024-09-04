@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+<!--        <item name="windowSplashScreenAnimationDuration">2000</item>-->
+        <!-- Show a splash screen on the activity. Automatically removed when
+             Flutter draws its first frame -->
+<!--        <item name="android:windowBackground">@drawable/splash_copy_view</item>-->
+    </style>
+
+<!--    <style name="LaunchTheme" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">@color/splashScreenBackground</item>-->
+<!--        <item name="windowSplashScreenAnimatedIcon">@drawable/splashscreen_icon</item>-->
+<!--        <item name="windowSplashScreenAnimationDuration">2000</item>-->
+<!--&lt;!&ndash;        <item name="postSplashScreenTheme">@style/Theme.App</item>&ndash;&gt;-->
+<!--    </style>-->
+</resources>

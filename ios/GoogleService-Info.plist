@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>348827958981-2gr7hamsi713j0tvftv8jbro35ej4oao.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.348827958981-2gr7hamsi713j0tvftv8jbro35ej4oao</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>348827958981-3h67rlg1a87gj3p72o46mt4peck90mha.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgryQnIeYwSWf2btfHkEOlrMOxoOFYhSU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>348827958981</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.invoc</string>
+	<key>PROJECT_ID</key>
+	<string>invoc-2ab70</string>
+	<key>STORAGE_BUCKET</key>
+	<string>invoc-2ab70.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:348827958981:ios:e5cd338713d55d6b947aac</string>
+	<key>DATABASE_URL</key>
+	<string>https://invoc-2ab70.firebaseio.com</string>
+</dict>
+</plist>
